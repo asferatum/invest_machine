@@ -1,0 +1,14 @@
+Vol:		1000
+buyVol:		2926000.0
+avgPrice:	60896.3455
+slippage:	1.1068
+
+vol:		10000
+buyVol:		29260000.0
+avgPrice:	60898.597
+slippage: 	3.3578
+
+vol:		1000000
+buyVol:		1984028070.0
+avgPrice:	60938.0866
+slippage:	42.8396
